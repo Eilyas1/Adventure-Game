@@ -1,0 +1,44 @@
+html, body {
+  height: 100%;
+  width: 100%;
+  background: black;
+  
+}
+img{
+    display:none;
+}
+
+.option-one-screen{
+    display: none;
+}
+
+.Car{
+  width: 700px;
+}
+
+body{
+  color:#FF0000
+  
+}
+
+div{
+  border:1px solid black;
+  margin: 5px;
+}
+
+.Hammer1{
+  display: none;
+}
+
+.Patching{
+  display: none;
+}
+
+.Win{
+  display: none;
+}
+
+
+.Lose{
+  display: none;
+}
